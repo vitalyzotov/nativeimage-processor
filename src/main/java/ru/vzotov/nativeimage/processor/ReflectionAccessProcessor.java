@@ -1,4 +1,4 @@
-package ru.vzotov.hb.nativeimage;
+package ru.vzotov.nativeimage.processor;
 
 
 import javax.annotation.processing.AbstractProcessor;
